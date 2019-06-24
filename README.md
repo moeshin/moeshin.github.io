@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# moeshin.github.io
-My demo site: [https://moeshin.github.io/](https://moeshin.github.io/)
-=======
 # My Demo Site
 
 Site URL: [https://moeshin.github.io/](https://moeshin.github.io/)
@@ -13,4 +9,3 @@ Name|Commit
 -|-
 [QPlayer](https://moeshin.github.io/QPlayer)|[https://github.com/moeshin/QPlayer.git](https://github.com/moeshin/QPlayer.git)
 
->>>>>>> Change QPlayer branch to bc
