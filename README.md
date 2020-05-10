@@ -6,6 +6,7 @@ Repository URL: [https://github.com/moeshin/moeshin.github.io/](https://github.c
 
 ## Demo List
 
-|Name|Commit|
+|Name|Repository|
 |---|---|
-|[QPlayer](https://moeshin.github.io/QPlayer)|[https://github.com/moeshin/QPlayer.git](https://github.com/moeshin/QPlayer.git)|
+|[QPlayer2](https://moeshin.github.io/QPlayer2/demos)|[https://github.com/moeshin/QPlayer2.git](https://github.com/moeshin/QPlayer2.git)|
+
