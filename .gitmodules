@@ -1,0 +1,3 @@
+[submodule "QPlayer2"]
+	path = QPlayer2
+	url = https://github.com/moeshin/QPlayer2.git
