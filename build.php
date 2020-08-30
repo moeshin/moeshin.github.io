@@ -1,6 +1,5 @@
 <?php
 
-const asd = '';
 $file = '.gitmodules';
 $site = 'https://moeshin.github.io/';
 $repository = 'https://github.com/moeshin/moeshin.github.io/';
