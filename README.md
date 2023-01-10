@@ -8,5 +8,4 @@ Repository URL: [https://github.com/moeshin/moeshin.github.io/](https://github.c
 
 |Name|Repository|
 |---|---|
-|[QPlayer2](https://moeshin.github.io/QPlayer2/demos)|[https://github.com/moeshin/QPlayer2.git](https://github.com/moeshin/QPlayer2.git)|
-
+|[QPlayer2](QPlayer2/demos)|[https://github.com/moeshin/QPlayer2.git](https://github.com/moeshin/QPlayer2.git)|

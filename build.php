@@ -29,7 +29,7 @@ md;
         foreach ($ini as $value) {
             $name = $value['path'];
             $repo = $value['url'];
-            $url = $site . $name;
+            $url = $name;
             $suffix = $json[$name];
             if ($suffix) {
                 $url = rtrim($url, '/') . '/' . $suffix;
